@@ -1,0 +1,153 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.cant1 {
+  background-color: rgb(140, 187, 205);
+  padding-top: 60px;
+  display: block;
+  position: relative;
+  justify-content: center;
+}
+.text, h1 h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 60px;
+  display: block;
+}
+.c1 {
+  margin-left: 900px;
+  overflow-clip-margin: 100px;
+}
+.c2 img {
+  margin-top: 50px;
+  margin-left: 300px;
+}
+.mount {
+  text-align: center;
+}
+.cant2 {
+  display: block;
+  text-align: center;
+}
+.profile {
+  margin-top: 100px;
+  height: 200px;
+}
+.info {
+  margin-top: 30px;
+}
+.info h2 {
+  font-size: 4rem;
+  color: rgb(41, 188, 188);
+}
+.info p {
+  display: flex;
+  font-size: 1.1rem;
+  text-align: center;
+  justify-content: center;
+  width: 425px;
+  margin:auto;
+  line-height: 32px;
+  margin-top: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+hr {
+  margin: 90px auto;
+  border: solid 1px #fff;
+}
+.hr2 {
+  margin: 40px auto;
+  border: solid 1px #fff;
+}
+
+.skil {
+  font-size: 3rem;
+}
+.parent {
+  display: grid;
+  grid-template-columns: 0.5fr 1fr;
+  grid-template-rows: repeat(1, 1fr);
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: left;
+  row-gap: 2rem;
+  align-content: space-around;
+  justify-content: space-around;
+  align-items: stretch;
+  justify-items: center;
+}
+.img1-text {
+  margin-left: 15px;
+  font-size: 1.3rem;
+  margin-top: 20px;
+  line-height: 1.7rem;
+}
+.skil-img1 img {
+  height: 270px;
+}
+
+.contact-me {
+  justify-content: center;
+}
+.contact-me h2 {
+  color: rgba(11, 144, 100, 0.773);
+  font-size: 3rem;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.contact-me h3 {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  color: rgb(4, 0, 255);
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  width: 375px;
+}
+.contact-me p {
+  display: flex;
+  width: 375px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 40px;
+}
+.contact-me a{
+  margin-top: 50px;
+  text-decoration: none;
+  font-size: 1.3rem;
+  background-color: black;
+  color: wheat;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 16px 30px 16px 30px;
+  transition: 0.6s;
+}
+.contact-me a:hover {
+  background-color: rgb(13, 255, 239);
+  color: black;
+  border: 3px solid black;
+}
+.cant-3 {
+  background-color: rgb(5, 149, 149);
+  display: block;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+.class {
+  text-align: center;
+}
+.class a {
+  text-decoration: none;
+  font-size: 1.4rem;
+  color: black;
+  font-weight: 500;
+  margin: 0px 10px 0px 10px;
+}
+.cant-3 h3{
+  text-align: center;
+  margin-top: 25px;
+}
